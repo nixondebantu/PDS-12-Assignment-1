@@ -1,0 +1,51 @@
+Recipe ID,Recipe Name,Ingredients,Steps,Cuisine,Preparation Time
+R001,Spaghetti Carbonara,"Spaghetti, Eggs, Parmesan cheese, Pancetta, Black pepper","1. Boil spaghetti. 2. Cook pancetta. 3. Mix eggs and cheese. 4. Combine all with pepper.","Italian",25
+R002,Chicken Curry,"Chicken, Onions, Tomatoes, Garlic, Ginger, Spices, Coconut milk","1. Sauté onions, garlic, and ginger. 2. Add chicken and spices. 3. Add tomatoes and coconut milk. 4. Simmer until cooked.","Indian",40
+R003,Fried Rice,"Rice, Eggs, Carrots, Peas, Soy sauce, Green onions","1. Cook rice. 2. Scramble eggs. 3. Stir-fry veggies and rice. 4. Add soy sauce and mix.","Chinese",30
+R004,Margherita Pizza,"Pizza dough, Tomatoes, Mozzarella, Basil, Olive oil","1. Prepare dough. 2. Spread sauce and cheese. 3. Bake. 4. Add basil and olive oil.","Italian",20
+R005,Vegetable Stir Fry,"Broccoli, Bell peppers, Carrots, Soy sauce, Olive oil, Garlic","1. Chop veggies. 2. Stir-fry with garlic. 3. Add soy sauce and cook.","Chinese",25
+R006,Grilled Cheese Sandwich,"Bread, Butter, Cheese","1. Butter bread. 2. Place cheese between slices. 3. Grill until golden.","American",10
+R007,Beef Tacos,"Ground beef, Taco shells, Lettuce, Cheese, Salsa, Sour cream","1. Cook beef. 2. Fill taco shells with beef and toppings.","Mexican",20
+R008,Vegetable Soup,"Carrots, Potatoes, Celery, Onion, Tomatoes, Garlic, Vegetable broth","1. Chop veggies. 2. Sauté onions and garlic. 3. Add other veggies and broth. 4. Simmer until tender.","American",45
+R009,Chicken Caesar Salad,"Chicken, Romaine lettuce, Croutons, Caesar dressing, Parmesan cheese","1. Cook chicken. 2. Toss with lettuce, croutons, and dressing. 3. Top with cheese.","American",25
+R010,Lasagna,"Lasagna noodles, Ground beef, Marinara sauce, Ricotta, Mozzarella, Parmesan, Garlic, Onions","1. Boil noodles. 2. Cook beef with onions and garlic. 3. Layer noodles, sauce, and cheese. 4. Bake.","Italian",60
+R011,Shakshuka,"Tomatoes, Eggs, Onion, Garlic, Bell peppers, Spices","1. Sauté veggies and spices. 2. Add tomatoes and cook. 3. Crack eggs on top and simmer.","Middle Eastern",30
+R012,Chicken Alfredo,"Chicken, Fettuccine, Heavy cream, Parmesan cheese, Garlic, Butter","1. Cook fettuccine. 2. Sauté chicken and garlic. 3. Add cream and cheese to make sauce. 4. Mix with pasta.","Italian",35
+R013,Tom Yum Soup,"Shrimp, Lemongrass, Lime leaves, Fish sauce, Chili, Garlic, Ginger, Mushrooms","1. Boil broth with herbs. 2. Add shrimp and mushrooms. 3. Cook until shrimp are done.","Thai",30
+R014,Beef Stroganoff,"Beef, Mushrooms, Onion, Sour cream, Beef broth, Butter, Flour","1. Cook beef and mushrooms. 2. Make sauce with broth and sour cream. 3. Serve with noodles.","Russian",45
+R015,Banana Bread,"Bananas, Flour, Sugar, Eggs, Butter, Baking soda, Vanilla","1. Mash bananas. 2. Mix ingredients. 3. Bake until golden.","American",60
+R016,Fish Tacos,"Fish fillets, Corn tortillas, Cabbage, Lime, Avocado, Salsa","1. Grill fish. 2. Fill tortillas with fish and toppings.","Mexican",20
+R017,Pad Thai,"Rice noodles, Shrimp, Eggs, Peanuts, Lime, Bean sprouts, Tamarind paste","1. Stir-fry noodles and shrimp. 2. Add sauce and toppings. 3. Serve with peanuts and lime.","Thai",40
+R018,Chicken Wings,"Chicken wings, Buffalo sauce, Butter, Garlic, Cayenne pepper","1. Bake wings. 2. Toss in buffalo sauce and bake again.","American",40
+R019,Cucumber Salad,"Cucumbers, Red onion, Vinegar, Sugar, Salt, Pepper","1. Slice cucumbers and onions. 2. Toss with vinegar and seasonings.","Greek",15
+R020,French Fries,"Potatoes, Salt, Vegetable oil","1. Cut potatoes. 2. Fry until golden. 3. Salt and serve.","American",25
+R021,Sushi Rolls,"Sushi rice, Nori, Tuna, Avocado, Soy sauce, Wasabi","1. Cook rice. 2. Assemble rolls with fish and veggies. 3. Slice and serve.","Japanese",40
+R022,Tomato Soup,"Tomatoes, Onion, Garlic, Vegetable broth, Olive oil, Basil","1. Sauté onions and garlic. 2. Add tomatoes and broth. 3. Simmer and blend.","American",30
+R023,Falafel,"Chickpeas, Garlic, Cumin, Parsley, Onion, Flour","1. Blend ingredients. 2. Form balls and fry.","Middle Eastern",35
+R024,Spaghetti Bolognese,"Spaghetti, Ground beef, Tomatoes, Onion, Garlic, Olive oil, Parmesan","1. Cook spaghetti. 2. Make sauce with beef, tomatoes, and garlic. 3. Serve with pasta.","Italian",50
+R025,Apple Pie,"Apples, Sugar, Flour, Butter, Cinnamon","1. Prepare apples and crust. 2. Assemble and bake until golden.","American",90
+R026,Chicken Shawarma,"Chicken, Garlic, Yogurt, Spices, Pita bread, Cucumber, Tomato","1. Marinate chicken. 2. Grill and slice. 3. Serve in pita with veggies.","Middle Eastern",45
+R027,Stuffed Peppers,"Bell peppers, Ground beef, Rice, Tomatoes, Cheese","1. Stuff peppers with beef and rice mixture. 2. Bake until tender.","American",60
+R028,Spring Rolls,"Rice paper, Shrimp, Lettuce, Carrots, Vermicelli noodles, Mint","1. Soak rice paper. 2. Roll ingredients in paper. 3. Serve with dipping sauce.","Vietnamese",35
+R029,Chicken Pot Pie,"Chicken, Carrots, Peas, Potatoes, Pie crust, Cream","1. Cook chicken and veggies. 2. Fill crust with mixture. 3. Bake until golden.","American",75
+R030,Clam Chowder,"Clams, Potatoes, Onion, Celery, Cream, Butter","1. Sauté onions and celery. 2. Add clams, potatoes, and cream. 3. Simmer until tender.","American",60
+R031,Lamb Curry,"Lamb, Tomatoes, Onion, Garlic, Ginger, Spices, Coconut milk","1. Sauté onions, garlic, and ginger. 2. Add lamb and spices. 3. Simmer with tomatoes and coconut milk.","Indian",70
+R032,Beef Burritos,"Ground beef, Flour tortillas, Beans, Cheese, Salsa","1. Cook beef. 2. Fill tortillas with beef, beans, and toppings. 3. Roll and serve.","Mexican",30
+R033,Vegetable Lasagna,"Lasagna noodles, Ricotta, Mozzarella, Spinach, Zucchini, Marinara sauce","1. Layer noodles, cheese, and veggies. 2. Bake until bubbly.","Italian",70
+R034,Coconut Shrimp,"Shrimp, Coconut flakes, Flour, Eggs, Coconut oil","1. Dip shrimp in flour, egg, and coconut. 2. Fry until golden.","American",30
+R035,Beef Burger,"Ground beef, Buns, Lettuce, Tomato, Cheese, Pickles","1. Form patties and cook beef. 2. Assemble burger with toppings.","American",20
+R036,Caprese Salad,"Tomatoes, Mozzarella, Basil, Olive oil, Balsamic vinegar","1. Layer tomatoes and cheese. 2. Drizzle with olive oil and balsamic.","Italian",15
+R037,Vegetable Curry,"Potatoes, Carrots, Spinach, Tomatoes, Onion, Coconut milk, Spices","1. Cook potatoes and carrots. 2. Add onions and spices. 3. Simmer with tomatoes and coconut milk.","Indian",45
+R038,Pulled Pork Sandwich,"Pork shoulder, Buns, Barbecue sauce, Pickles","1. Slow cook pork with sauce. 2. Shred and serve in buns with pickles.","American",60
+R039,Cheeseburger,"Ground beef, Cheese, Lettuce, Tomato, Pickles, Buns","1. Cook beef. 2. Place cheese and assemble with toppings.","American",25
+R040,Quiche,"Eggs, Cream, Cheese, Spinach, Pie crust, Garlic","1. Sauté spinach and garlic. 2. Mix with eggs and cheese. 3. Bake in crust.","French",50
+R041,Cornbread,"Cornmeal, Flour, Sugar, Eggs, Milk, Butter","1. Mix ingredients. 2. Pour into pan and bake.","American",30
+R042,Shrimp Scampi,"Shrimp, Garlic, Butter, Lemon, Parsley, Linguine","1. Cook shrimp in butter and garlic. 2. Toss with pasta and lemon.","Italian",30
+R043,Lentil Soup,"Lentils, Carrots, Celery, Onion, Garlic, Vegetable broth","1. Sauté onions, carrots, and celery. 2. Add lentils and broth. 3. Simmer until lentils are tender.","American",60
+R044,Cheese Quesadilla,"Flour tortillas, Cheese, Butter","1. Melt butter in pan. 2. Add cheese between tortillas. 3. Grill until crispy.","Mexican",10
+R045,Chicken Parmesan,"Chicken, Parmesan, Marinara sauce, Mozzarella, Spaghetti","1. Bread and fry chicken. 2. Top with cheese and sauce. 3. Serve with pasta.","Italian",60
+R046,Fish and Chips,"Fish fillets, Potatoes, Flour, Beer, Salt, Vinegar","1. Coat fish in batter. 2. Fry fish and chips. 3. Serve with vinegar.","British",45
+R047,Baklava,"Phyllo dough, Walnuts, Honey, Butter, Sugar","1. Layer dough with nuts. 2. Bake and drizzle with honey syrup.","Middle Eastern",60
+R048,Moussaka,"Eggplant, Ground beef, Tomatoes, Onions, Bechamel sauce","1. Layer eggplant and beef mixture. 2. Top with bechamel sauce. 3. Bake.","Greek",90
+R049,Chicken Tikka Masala,"Chicken, Tomatoes, Onion, Garlic, Ginger, Spices, Cream","1. Marinate chicken. 2. Cook in spiced sauce with cream.","Indian",60
+R050,Apple Crisp,"Apples, Oats, Sugar, Flour, Butter, Cinnamon","1. Mix apples with sugar and cinnamon. 2. Top with oats and butter. 3. Bake until golden.","American",60
